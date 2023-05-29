@@ -1,0 +1,12 @@
+{
+  "name": "zara-api-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for the Zara shop website API",
+  "main": "index.js",
+  "repository": "https://github.com/IkerOrtega/zara-api-wrapper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iker Ortega",
+  "license": "ISC"
+}
